@@ -28,4 +28,3 @@ require('lazy').setup(
     }
 )
 
-vim.keymap.set('i', 'kj', '<esc>')
